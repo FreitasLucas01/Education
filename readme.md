@@ -1,7 +1,7 @@
 <br>
-<p align="center" style="font-size: 5rem;"><img align="center" src="./img/logo.svg"> </p> <br>
+<p align="center" ><img align="center" src="./img/logo.svg"> </p> <br>
 
-<h1 align="center"> Portófio </h1>
+<h1 align="center"> Education </h1>
 
 <p align="center">
     <a href="#demo"> Demonstração</a> •
