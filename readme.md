@@ -34,8 +34,8 @@
 
 <p> Esse projeto foi desenvolvido com as seguintes tecnologias: </p><br>
 
-✔️HTML<br><br>
 ✔️Bootstrap<br><br>
+✔️HTML<br><br>
 ✔️CSS<br><br>
 
 <h2 id="projeto"> 💻 Projeto </h2>
